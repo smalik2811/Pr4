@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pr4</string>
+    <string-array name = "animals">
+        <item>Cat</item>
+        <item>Dog</item>
+        <item>Cattle</item>
+        <item>Tiger</item>
+        <item>Horse</item>
+        <item>Goat</item>
+    </string-array>
+</resources>
